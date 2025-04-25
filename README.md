@@ -17,10 +17,16 @@ Models
 =
 Evaluated models:
 =
-Naive Bayes
+Naive Bayes 
+=
 Logistic Regression
+=
 QDA
+=
 KNN
+=
 SVM
+=
 XGBoost
+=
 
