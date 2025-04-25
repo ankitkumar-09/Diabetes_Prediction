@@ -1,4 +1,4 @@
-Diabetes Prediction Project
+#Diabetes Prediction Project
 Overview
 This project predicts diabetes using the Diab_Pred.ipynb notebook, which preprocesses data, engineers features, and compares machine learning models (Naive Bayes, Logistic Regression, QDA, KNN, SVM, XGBoost) on a dataset of health-related features.
 Dataset
@@ -12,7 +12,7 @@ Drop Unnamed: 0, Ethnicity; fill missing Alcohol_Consumption with mode.
 Visualize model accuracies with a bar plot.
 
 Models
-
+=
 Evaluated models:
 Naive Bayes
 Logistic Regression
