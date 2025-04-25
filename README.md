@@ -22,17 +22,17 @@ Visualize model accuracies with a bar plot.
 Models
 =
 Evaluated models:
-=
+
 Naive Bayes 
-=
+
 Logistic Regression
-=
+
 QDA
-=
+
 KNN
-=
+
 SVM
-=
+
 XGBoost
-=
+
 
